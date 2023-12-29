@@ -1,8 +1,9 @@
 * {margin: 0; padding: 0}
 
-body {
-  height: 5000px;
+html, body {
+  height: 100%;
   background-color: #212426;
+  overflow: hidden;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Kalnia:wght@300&family=Roboto&family=Roboto+Mono:wght@300&display=swap');
